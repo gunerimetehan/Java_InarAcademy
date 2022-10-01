@@ -1,4 +1,4 @@
-package chapter_02;
+package chapters.chapter_02;
 import java.util.Scanner;
 
 public class ComputeLoan {
